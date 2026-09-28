@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-23)
+## Unreleased (2026-09-28)
 
 <section class="features">
 
 ### Features
 
+-   [`189a054`](https://github.com/stdlib-js/stdlib/commit/189a054672b5b7126dc4fc6feb0fba259e2af828) - add C implementation for `blas/ext/base/ndarray/dnone` [(#15348)](https://github.com/stdlib-js/stdlib/pull/15348)
 -   [`8361cc2`](https://github.com/stdlib-js/stdlib/commit/8361cc23cf56bac41725ec93d366e89ccc977561) - add `blas/ext/base/ndarray/dnone` [(#14450)](https://github.com/stdlib-js/stdlib/pull/14450)
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`189a054`](https://github.com/stdlib-js/stdlib/commit/189a054672b5b7126dc4fc6feb0fba259e2af828) - **feat:** add C implementation for `blas/ext/base/ndarray/dnone` [(#15348)](https://github.com/stdlib-js/stdlib/pull/15348) _(by MJ)_
 -   [`8361cc2`](https://github.com/stdlib-js/stdlib/commit/8361cc23cf56bac41725ec93d366e89ccc977561) - **feat:** add `blas/ext/base/ndarray/dnone` [(#14450)](https://github.com/stdlib-js/stdlib/pull/14450) _(by Muhammad Haris)_
 
 </details>
@@ -34,8 +36,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   MJ
 -   Muhammad Haris
 
 </section>
